@@ -16,7 +16,7 @@ C:\> cd wifi-list
 C:\wifi-list\>python wifi-list.py
 ```
 5. Get the output:
-```python
+```
 C:\wifi-list>python wifi-list.py
 
 #     #
