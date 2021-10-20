@@ -27,6 +27,6 @@ C:\wifi-list>python wifi-list.py
 #  #  # # #      #            #  #  # #      ##  ## #      #   #
  ## ##  # #      #             ##   # ###### #    # ###### #    #
 
-Wi-fi: HackThisForFun >> Password: Arch2804@root@
+Wi-fi: HackThisForFun >> Password: Potatato4505@$#
 ```
 
